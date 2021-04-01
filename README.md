@@ -4,7 +4,7 @@
 
 The notes and documents in this repository were created by the authors as part of their competition sumission to the University of Toronto Mississauga's Digital Enterprise Management Association's Young Entrepeneur Conference 2021.
 
-Please see the provided Case Competition documents for more information about the case.
+Please see the provided Case Study provided documents for more information about the case.
 
 ## Results
 
